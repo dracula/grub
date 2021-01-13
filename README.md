@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [GRUB](https://gnu.org/software/grub/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [GRUB](https://gnu.org/software/grub/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/grub](https://draculatheme.com/grub).
 
 ## Team
 
