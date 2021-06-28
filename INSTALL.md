@@ -13,5 +13,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/grub/archiv
 #### Activating theme
 
 1. Move the dracula folder to /usr/share/grub/themes/
-2. Change the theme in /etc/default/grub
+2. Change the theme in /etc/default/grub ( Set GRUB_THEME to '/usr/share/grub/themes/dracula/theme.txt')
 3. Run `sudo grub-mkconfig -o /boot/grub/grub.cfg`
